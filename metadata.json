@@ -1,0 +1,6 @@
+{
+  "name": "Aura Essentials Organic Skincare",
+  "description": "Pure Nature. Radiant Skin. Premium handcrafted organic skincare made with ethically sourced natural ingredients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
